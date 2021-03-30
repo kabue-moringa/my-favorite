@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+ol{
+    line-height: 40px;
+    color: purple;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    line-height: 35px;
+    color: seagreen;
+}
+#swim{
+    background-color: rebeccapurple;
+    width: max-content;
+}
